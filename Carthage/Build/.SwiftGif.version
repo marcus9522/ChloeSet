@@ -1,0 +1,19 @@
+{
+  "commitish" : "v1.6.1",
+  "iOS" : [
+    {
+      "hash" : "53907f715c76eded906b8a226b739e222a885cf572a9f815cce7eef30ea834a0",
+      "name" : "SwiftGif"
+    }
+  ],
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+
+  ]
+}

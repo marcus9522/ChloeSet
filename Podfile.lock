@@ -1,0 +1,18 @@
+PODS:
+  - BWWalkthrough (2.1.0)
+  - SwiftyJSON (3.1.4)
+  - TagListView (1.1.0)
+
+DEPENDENCIES:
+  - BWWalkthrough
+  - SwiftyJSON
+  - TagListView (~> 1.0)
+
+SPEC CHECKSUMS:
+  BWWalkthrough: 188408f55b951725ccfd4faa8dab5c577b57c7a9
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  TagListView: d0267a71393f3c73db5c9ea2f979ac1125fcab56
+
+PODFILE CHECKSUM: 0aa7ebe2a4357bb21f66d9ebf47620af30e1295c
+
+COCOAPODS: 1.2.0
